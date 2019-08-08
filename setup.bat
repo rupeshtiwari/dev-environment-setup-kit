@@ -1,11 +1,11 @@
 CALL:PRINTSTEPS "Closing all Visual Studio Code instances"
-REM Taskkill /IM code.exe /F
+Taskkill /IM code.exe /F
 
 CALL:PRINTSTEPS "‍️Installing Node and NodeJS v10-16-2-x64"
-REM start /wait steps/node/node-v10.16.2-x64.msi
+start /wait steps/node/node-v10.16.2-x64.msi
 
 CALL:PRINTSTEPS "Installing Visual Studio Code x64-1-37-0"
-REM start /wait steps/vscode/VSCodeUserSetup-x64-1.37.0.exe
+start /wait steps/vscode/VSCodeUserSetup-x64-1.37.0.exe
 
 CALL:PRINTSTEPS "Installing Git 2-22-0-64-bit"
 start /wait steps/git/Git-2.22.0-64-bit.exe

@@ -6,13 +6,13 @@ This setup are needed only first time when you are setting up your machine. Or i
 
 ## ⌛ What will be installed in my pc with these setup?
 
-This msi will help you to install below MSI's:
+This `Setup.bat` file will install below MSI's in your machine:
 
-> node, git and vs code in your machine.
+> Node, Git and Visual Studio Code
 
-It will also help you to install
+Next it will install
 
-> few required node packages and 25+ VS Code extensions.
+> few Node Packages and 25+ VS Code Extensions.
 
 Therefore please do not miss this fun :)
 
