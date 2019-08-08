@@ -19,4 +19,4 @@ Therefore please do not miss this fun :)
 ## 🏃 How to Start
 
 -   Run `setup.bat`
--   Add Authentication Encryption Key to .NPMRC file from TFS
+-   Add Authentication Encryption Key to .NPMRC file from npm package feeds
